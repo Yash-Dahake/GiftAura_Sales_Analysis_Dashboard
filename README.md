@@ -1,5 +1,5 @@
 
-# 🎁 GiftAura Sales Analysis – Excel Data Analyst Project
+# 🎁 GiftAura Sales Analysis – Excel  Project
 
 ## 📌 Executive Summary
 This project provides an end-to-end exploratory data analysis and interactive dashboard solution built in **Microsoft Excel** for **GiftAura**, an e-commerce platform specializing in curated gifts for various occasions. 
