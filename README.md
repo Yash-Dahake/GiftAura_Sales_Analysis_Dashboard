@@ -24,7 +24,7 @@ By analyzing transactional customer order data, this project evaluates key reven
 ---
 
 ## 📁 Project Structure
-```text
+
 GiftAura-Sales-Analysis/
 │
 ├── customers.csv                    # Customer demographic raw data
@@ -33,7 +33,6 @@ GiftAura-Sales-Analysis/
 ├── giftaura_excel_project.xlsx      # Main workbook containing raw data, calculations, PivotTables, & Dashboard
 ├── Dashboard_Screenshot.png         # Image preview of the interactive dashboard
 └── README.md                        # Project documentation and summary
-
 📑 Dataset Overview & Data Preparation
 🔍 Dataset Overview
 The dataset contains transactional records of 1,000 orders placed across major Indian cities, capturing order timestamps, delivery dates, product categories, pricing, unit quantities, and occasions.
