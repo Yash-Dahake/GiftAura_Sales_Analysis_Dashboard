@@ -38,6 +38,7 @@ GiftAura-Sales-Analysis/
 └── README.md                        # Project documentation and summary
 ```
 ---
+
 📑 Dataset Overview & Data Preparation
 🔍 Dataset Overview
 The dataset contains transactional records of 1,000 orders placed across major Indian cities, capturing order timestamps, delivery dates, product categories, pricing, unit quantities, and occasions.
@@ -53,7 +54,9 @@ Order Hour: Derived using =INT(Order_Time * 24)
 Order Month: Extracted to categorize temporal trends across peak festive seasons.
 
 ✅ Data Quality Validation: Standardized text fields, reformatted currency values to INR (₹), removed duplicate records, and ensured zero missing values in primary key columns.
+
 ---
+
 📊 Dashboard Overview & Key Performance Indicators (KPIs)
 📊 Key Performance Scorecard
 📦 Total Orders: 1,000
@@ -63,7 +66,9 @@ Order Month: Extracted to categorize temporal trends across peak festive seasons
 🚚 Average Delivery Time: 5.53 Days
 
 💳 Average Customer Spend: ₹3,520.98 per order
+
 ---
+
 ❓ Business Questions & Core Insights
 1. What are the key performance metrics of GiftAura's sales operations?
 GiftAura generated ₹35.21 Lakhs across 1,000 completed orders, yielding an average order value (AOV) of ₹3,520.98. The overall logistics operations average 5.53 days for complete order delivery.
@@ -109,7 +114,9 @@ GiftAura holds a strong customer base in Tier-2 and Tier-3 urban markets:
 📍 Imphal leads all regions with 29 orders, followed by 📍 Dhanbad (28 orders) and 📍 Kavali (27 orders).
 
 Guntakal, Haridwar, and Dibrugarh also rank among the top 10 performing cities.
+
 ---
+
 🔍 Findings and Conclusion
 🎯 Key Findings
 🎉 Festive Peaks Drive Bulk Sales: Over 40% of annual revenue is generated across two primary seasonal peaks in February and August.
@@ -119,7 +126,9 @@ Guntakal, Haridwar, and Dibrugarh also rank among the top 10 performing cities.
 ⏰ Prime Purchasing Windows: Customer purchasing behavior is heavily concentrated in the evening hours (6:00 PM – 8:00 PM).
 
 📍 Emerging Regional Markets: Order volume is heavily distributed across growing urban centers like Imphal, Dhanbad, and Kavali rather than strictly metropolitan hubs.
+
 ---
+
 🚀 Strategic Business Recommendations
 📈 Capitalize on Peak Seasonal Spikes: Allocate higher digital marketing budgets 2–3 weeks prior to February and August to capture early-bird festive shoppers. Increase inventory stock levels for top-selling items ahead of peak seasons.
 
@@ -128,7 +137,9 @@ Guntakal, Haridwar, and Dibrugarh also rank among the top 10 performing cities.
 ⏰ Optimize Ad Scheduling: Schedule automated promotional notifications, emails, and social media ad campaigns during peak customer activity hours (5:00 PM – 8:00 PM).
 
 🚚 Enhance Regional Supply Chain Operations: Focus regional fulfillment logistics in high-volume regions (Imphal, Dhanbad, Kavali) to reduce the average delivery window from 5.53 days to 3–4 days.
+
 ---
+
 👤 Author
 Yash Dahake
 
@@ -137,4 +148,4 @@ Yash Dahake
 🛠️ Skills: SQL | PostgreSQL | Python | Excel | Power BI | Data Analytics
 
 
-****---
+****
